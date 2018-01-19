@@ -14,3 +14,4 @@ pip3 install urllib.requests
 pip3 install urllib
 pip3 install BeautifulSoup4
 ```
+Only works on Python 3
