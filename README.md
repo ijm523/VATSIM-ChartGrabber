@@ -3,15 +3,15 @@ Simple Python 3 script which downloads charts for a VATSIM flight from FlightAwa
 
 # Usage
 ```
-python3 ChartGrabber.py
+python ChartGrabber.py
 ```
 Batch file included, change "python" to "python3" if required
 
 # Dependencies
 Requires urllib.requests, urllib, and BeautifulSoup4
 ```
-pip3 install urllib.requests
-pip3 install urllib
-pip3 install BeautifulSoup4
+pip install urllib.requests
+pip install urllib
+pip install BeautifulSoup4
 ```
 Only works on Python 3
